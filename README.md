@@ -10,12 +10,12 @@
 ## 🚀 Installation
 Open your command prompt and paste the following command:
 ```bash
- npm i colorconsole
+ npm i @joelmo/console-color
 ```
 ## ⚡ Basic Usage
 
 ```js
-import cc from "colorconsole";
+import cc from "@joelmo/console-color";
 
 // Simple colored text
 cc().log('red', 'Red text!');

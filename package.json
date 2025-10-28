@@ -1,6 +1,6 @@
 {
 "name": "@joelmo/console-color",
-"version": "1.0.0",
+"version": "1.0.3",
 "description": "Modern console styling with ANSI codes and HEX colors",
 "main": "index.js",
 "files": [
