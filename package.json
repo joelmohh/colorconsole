@@ -1,5 +1,5 @@
 {
-"name": "@joelmohh/console-color",
+"name": "@joelmo/console-color",
 "version": "1.0.0",
 "description": "Modern console styling with ANSI codes and HEX colors",
 "main": "index.js",
