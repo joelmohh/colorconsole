@@ -1,17 +1,25 @@
 {
-  "name": "consolecolor",
-  "version": "1.0.0",
-  "description": "Pacote moderno para colorir o terminal com estilo e HEX RGB",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "jest",
-    "build": "npx esbuild src/index.js --bundle --platform=node --outfile=dist/index.js"
-  },
-  "keywords": ["console", "color", "ansi", "chalk", "terminal", "rgb"],
-  "author": "Joelmo ",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/joelmohh/cc"
-  }
+"name": "consolecolor",
+"version": "1.0.0",
+"description": "Modern console styling with ANSI codes and HEX colors",
+"main": "index.js",
+"files": [
+"index.js",
+"README.md",
+"LICENSE"
+],
+"keywords": ["console", "color", "ansi", "terminal", "rgb"],
+"author": "Joelmo me@joelmo.dev",
+"license": "MIT",
+"repository": {
+"type": "git",
+"url": "git+https://github.com/joelmohh/colorconsole.git"
+},
+"bugs": {
+"url": "https://github.com/joelmohh/colorconsole/issues"
+},
+"homepage": "https://github.com/joelmohh/colorconsole#readme",
+"engines": {
+"node": ">=14"
+}
 }
