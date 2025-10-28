@@ -3,8 +3,8 @@
 > - **ConsoleColor** is a modern library for coloring and styling terminal output with **ANSI, HEX, and RGB** codes. <br>
 > - It offers a **lightweight, expressive, and chainable API** for Node.js.
 
-![npm version](https://img.shields.io/npm/v/colorconsole)
-![npm downloads](https://img.shields.io/npm/dt/colorconsole)
+![npm version](https://img.shields.io/npm/v/@joelmo/console-color)
+![npm downloads](https://img.shields.io/npm/dt/@joelmo/console-color)
 ![license](https://img.shields.io/github/license/joelmohh/colorconsole)
 
 ## 🚀 Installation
