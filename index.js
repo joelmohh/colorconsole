@@ -1,1 +1,83 @@
-const _0x1e40f3=_0xe7aa;(function(_0x5c2f48,_0x3b2314){const _0xc41d66=_0xe7aa,_0x200b90=_0x5c2f48();while(!![]){try{const _0x6f8876=parseInt(_0xc41d66(0xea))/0x1*(parseInt(_0xc41d66(0xed))/0x2)+-parseInt(_0xc41d66(0xfa))/0x3*(-parseInt(_0xc41d66(0xfd))/0x4)+parseInt(_0xc41d66(0x10b))/0x5+-parseInt(_0xc41d66(0xfc))/0x6*(-parseInt(_0xc41d66(0xf5))/0x7)+parseInt(_0xc41d66(0xfb))/0x8*(parseInt(_0xc41d66(0xf7))/0x9)+-parseInt(_0xc41d66(0x109))/0xa*(parseInt(_0xc41d66(0x104))/0xb)+-parseInt(_0xc41d66(0xf6))/0xc;if(_0x6f8876===_0x3b2314)break;else _0x200b90['push'](_0x200b90['shift']());}catch(_0x4dfbf1){_0x200b90['push'](_0x200b90['shift']());}}}(_0x4222,0x65549));const styles={'reset':'\x1b[0m','bold':_0x1e40f3(0x10c),'dim':_0x1e40f3(0x100),'italic':'\x1b[3m','underline':'\x1b[4m','reverse':'\x1b[7m','strikethrough':'\x1b[9m','black':_0x1e40f3(0xe5),'red':_0x1e40f3(0xf1),'green':_0x1e40f3(0x107),'yellow':_0x1e40f3(0x101),'blue':'\x1b[34m','magenta':_0x1e40f3(0xe9),'cyan':'\x1b[36m','white':_0x1e40f3(0x10e),'gray':_0x1e40f3(0x102),'lightRed':'\x1b[91m','lightGreen':_0x1e40f3(0xf9),'lightYellow':_0x1e40f3(0xf4),'lightBlue':'\x1b[94m','lightMagenta':_0x1e40f3(0xe6),'lightCyan':_0x1e40f3(0x103),'lightWhite':_0x1e40f3(0xeb),'bgBlack':_0x1e40f3(0xfe),'bgRed':_0x1e40f3(0xe7),'bgGreen':_0x1e40f3(0xf3),'bgYellow':_0x1e40f3(0x105),'bgBlue':_0x1e40f3(0x10f),'bgMagenta':_0x1e40f3(0xf8),'bgCyan':'\x1b[46m','bgWhite':_0x1e40f3(0xe8),'bgGray':_0x1e40f3(0xf0),'bgLightRed':_0x1e40f3(0x108),'bgLightGreen':_0x1e40f3(0xf2),'bgLightYellow':_0x1e40f3(0xef),'bgLightBlue':'\x1b[104m','bgLightMagenta':'\x1b[105m','bgLightCyan':'\x1b[106m','bgLightWhite':_0x1e40f3(0xff)};function hexToAnsi(_0x19b58c,_0xc52579=![]){const _0x314a2d=_0x1e40f3;_0x19b58c=_0x19b58c['replace']('#','');if(_0x19b58c['length']===0x3)_0x19b58c=_0x19b58c[_0x314a2d(0x10d)]('')['map'](_0x7ef79e=>_0x7ef79e+_0x7ef79e)['join']('');const _0xbbc716=parseInt(_0x19b58c,0x10),_0x232fd2=_0xbbc716>>0x10&0xff,_0x5a5166=_0xbbc716>>0x8&0xff,_0x3781c8=_0xbbc716&0xff;return'\x1b['+(_0xc52579?0x30:0x26)+_0x314a2d(0x10a)+_0x232fd2+';'+_0x5a5166+';'+_0x3781c8+'m';}function applyStyles(_0x3e1054,..._0x471bc0){const _0x42200d=_0x471bc0['map'](_0x3a4244=>styles[_0x3a4244]||'')['join']('');return''+_0x42200d+_0x3e1054+styles['reset'];}function _0x4222(){const _0x4b6bcf=['415848pSYgVX','5014696XfuHSe','1419924eXwQra','4anItfl','\x1b[40m','\x1b[107m','\x1b[2m','\x1b[33m','\x1b[90m','\x1b[96m','4367cQGiTk','\x1b[43m','map','\x1b[32m','\x1b[101m','14980cjmXli',';2;','2978495rhssJr','\x1b[1m','split','\x1b[37m','\x1b[44m','\x1b[30m','\x1b[95m','\x1b[41m','\x1b[47m','\x1b[35m','129354hOlLqu','\x1b[97m','log','10ythOCa','isArray','\x1b[103m','\x1b[100m','\x1b[31m','\x1b[102m','\x1b[42m','\x1b[93m','7xgEUqF','14817852dBzqww','9fhBnxq','\x1b[45m','\x1b[92m'];_0x4222=function(){return _0x4b6bcf;};return _0x4222();}function _0xe7aa(_0x5d5c4f,_0x8173f3){const _0x42222c=_0x4222();return _0xe7aa=function(_0xe7aa2b,_0x17f54a){_0xe7aa2b=_0xe7aa2b-0xe5;let _0x37d36c=_0x42222c[_0xe7aa2b];return _0x37d36c;},_0xe7aa(_0x5d5c4f,_0x8173f3);}function cc(){return{'log'(_0x1c3887,_0x3a2582){const _0x4f7a27=_0xe7aa;if(!Array[_0x4f7a27(0xee)](_0x1c3887))_0x1c3887=[_0x1c3887];console[_0x4f7a27(0xec)](applyStyles(_0x3a2582,..._0x1c3887));},'style'(..._0x43493d){const _0x2b9f49=_0xe7aa;return _0x43493d[_0x2b9f49(0x106)](_0x295d25=>styles[_0x295d25]||'')['join']('');},'hex'(_0x17cae4,_0x438a4e,{bg:bg=![],bold:bold=![]}={}){const _0x25bc56=_0xe7aa,_0x116efc=hexToAnsi(_0x17cae4,bg),_0x4c0055=bold?styles['bold']:'';console[_0x25bc56(0xec)](''+_0x4c0055+_0x116efc+_0x438a4e+styles['reset']);}};}module['exports']=cc;
+const styles = {
+    reset: "\x1b[0m",
+    bold: "\x1b[1m",
+    dim: "\x1b[2m",
+    italic: "\x1b[3m",
+    underline: "\x1b[4m",
+    reverse: "\x1b[7m",
+    strikethrough: "\x1b[9m",
+
+    // Text Colors
+    black: "\x1b[30m",
+    red: "\x1b[31m",
+    green: "\x1b[32m",
+    yellow: "\x1b[33m",
+    blue: "\x1b[34m",
+    magenta: "\x1b[35m",
+    cyan: "\x1b[36m",
+    white: "\x1b[37m",
+    gray: "\x1b[90m",
+    lightRed: "\x1b[91m",
+    lightGreen: "\x1b[92m",
+    lightYellow: "\x1b[93m",
+    lightBlue: "\x1b[94m",
+    lightMagenta: "\x1b[95m",
+    lightCyan: "\x1b[96m",
+    lightWhite: "\x1b[97m",
+
+    // Background Colors
+    bgBlack: "\x1b[40m",
+    bgRed: "\x1b[41m",
+    bgGreen: "\x1b[42m",
+    bgYellow: "\x1b[43m",
+    bgBlue: "\x1b[44m",
+    bgMagenta: "\x1b[45m",
+    bgCyan: "\x1b[46m",
+    bgWhite: "\x1b[47m",
+    bgGray: "\x1b[100m",
+    bgLightRed: "\x1b[101m",
+    bgLightGreen: "\x1b[102m",
+    bgLightYellow: "\x1b[103m",
+    bgLightBlue: "\x1b[104m",
+    bgLightMagenta: "\x1b[105m",
+    bgLightCyan: "\x1b[106m",
+    bgLightWhite: "\x1b[107m",
+};
+
+function hexToAnsi(hex, isBg = false) {
+    hex = hex.replace("#", "");
+    if (hex.length === 3) hex = hex.split("").map(c => c + c).join("");
+    const bigint = parseInt(hex, 16);
+    const r = (bigint >> 16) & 255;
+    const g = (bigint >> 8) & 255;
+    const b = bigint & 255;
+    return `\x1b[${isBg ? 48 : 38};2;${r};${g};${b}m`;
+}
+
+function applyStyles(text, ...styleNames) {
+    const prefix = styleNames
+        .map(name => styles[name] || "")
+        .join("");
+    return `${prefix}${text}${styles.reset}`;
+}
+
+function cc() {
+    return {
+        log(styleList, text) {
+            if (!Array.isArray(styleList)) styleList = [styleList];
+            console.log(applyStyles(text, ...styleList));
+        },
+
+        style(...styleList) {
+            return styleList.map(s => styles[s] || "").join("");
+        },
+
+        hex(hexCode, text, { bg = false, bold = false } = {}) {
+            const colorCode = hexToAnsi(hexCode, bg);
+            const boldCode = bold ? styles.bold : "";
+            console.log(`${boldCode}${colorCode}${text}${styles.reset}`);
+        },
+    };
+}
+
+module.exports = cc;
